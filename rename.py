@@ -40,4 +40,4 @@ if args.directory:
     if not choice or choice == "2":
         rename_all(dir_path)
     else:
-        print("another choince")
+        print("another choice")
