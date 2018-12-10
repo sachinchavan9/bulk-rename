@@ -1,5 +1,11 @@
 # Bulk Rename
 
+## Install bulk-rename
+
+```
+pip install bulk-rename
+```
+
 ```
 usage: bulk-rename.py [-h] [-d DIRECTORY]
 
