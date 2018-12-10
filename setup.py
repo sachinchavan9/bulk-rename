@@ -8,7 +8,7 @@ except(IOError, ImportError):
 
 setup(
     name = 'bulk-rename',
-    version = '2.0.3',
+    version = '2.0.4',
     author = 'Sachin Chavan',
     author_email = 'sachinewx@gmail.com',
     packages = ['bulk-rename'],
