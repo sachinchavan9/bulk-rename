@@ -5,7 +5,7 @@ import logging
 import string
 import random
 
-logging.basicConfig(level=logging.CRITICAL, format="%(asctime)s: [%(levelname)s]: %(message)s")
+logging.basicConfig(level=logging.NOTSET, format="%(asctime)s: [%(levelname)s]: %(message)s")
 
 BASE_PATH = os.path.abspath(__file__)
 

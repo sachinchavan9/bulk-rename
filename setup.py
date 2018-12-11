@@ -8,13 +8,13 @@ except(IOError, ImportError):
 
 setup(
     name = 'bulk-rename',
-    version = '2.0.5',
+    version = '2.0.6',
     author = 'Sachin Chavan',
     author_email = 'sachinewx@gmail.com',
     packages = ['bulk-rename'],
     scripts = ['bin/bulk-rename'],
     url = 'https://github.com/sachinchavan9/bulk-rename.git',
-    license = 'MIT License',
+    license = 'GNU General Public License v2.0',
     description = 'Bulk file rename tool',
     long_description = long_description,
     classifiers=[
