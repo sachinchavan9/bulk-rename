@@ -8,7 +8,7 @@ except(IOError, ImportError):
 
 setup(
     name = 'bulk-rename',
-    version = '2.0.4',
+    version = '2.0.5',
     author = 'Sachin Chavan',
     author_email = 'sachinewx@gmail.com',
     packages = ['bulk-rename'],
@@ -18,9 +18,10 @@ setup(
     description = 'Bulk file rename tool',
     long_description = long_description,
     classifiers=[
-        'Intended Audience :: Developers',
-        'License :: OSI Approved :: MIT License',
+        'Intended Audience :: End Users/Desktop',
+        'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
         'Operating System :: OS Independent',
+        'Development Status :: 4 - Beta',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.5',
