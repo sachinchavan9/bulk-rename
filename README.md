@@ -1,4 +1,4 @@
-# Bulk Rename
+# Bulk Rename :page_facing_up:
 
 ## Install bulk-rename
 
